@@ -4,7 +4,7 @@
 
 -- Active Mods
 OU_ACTIVE = mod_active("Only Up 64 v")
-OU_FLOOD_ACTIVE = mod_active("Only Up 64 Flood")
+OU_FLOOD_ACTIVE = mod_active("Flood")
 
 -- Render Character Height / Menu
 hook_event(HOOK_ON_HUD_RENDER, function()
